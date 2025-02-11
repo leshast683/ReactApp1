@@ -1,0 +1,51 @@
+
+.App {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.menu {
+  margin-bottom: 40px;
+}
+
+.menu h1 {
+  color: #333;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 10px;
+}
+
+.menu-item {
+  padding: 20px;
+  margin: 10px 0;
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+.menu-item span {
+  font-weight: bold;
+  color: #2c5282;
+}
+
+.menu-item h2 {
+  margin: 10px 0;
+  color: #333;
+}
+
+.menu-item p {
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.menu-item button {
+  background-color: #4299e1;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.menu-item button:hover {
+  background-color: #2b6cb0;
+}
